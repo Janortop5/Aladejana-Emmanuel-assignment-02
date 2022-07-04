@@ -20,6 +20,7 @@ function sumOfNumbers(arrayOfNumbers) {
     };
     return sumOfNumbers;
 };
+// assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
